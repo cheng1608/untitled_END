@@ -1,0 +1,39 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/ABackground.png</file>
+        <file>images/genshin_icon.png</file>
+        <file>images/genshin_icon2.png</file>
+        <file>images/girl_fail.gif</file>
+        <file>images/pl_idle.gif</file>
+        <file>images/pl_run.gif</file>
+        <file>images/star-shuriken.png</file>
+        <file>images/Zomble_walk.gif</file>
+        <file>font/fusion-pixel-proportional.ttf</file>
+        <file>style.qss</file>
+        <file>images/plain-circle-removebg-preview.png</file>
+        <file>images/enemyFire.png</file>
+        <file>images/enemyFireBubble.png</file>
+        <file>images/hearts/heart_empty_small.png</file>
+        <file>images/hearts/heart_minus_small.png</file>
+        <file>images/hearts/heart_plus_small.png</file>
+        <file>images/hearts/hearts_full_small.png</file>
+        <file>images/pic/boss.gif</file>
+        <file>images/pic/skeleton.gif</file>
+        <file>images/pic/wizard1.gif</file>
+        <file>images/pic/wzard2.gif</file>
+        <file>images/pic/ZombleEarth.gif</file>
+        <file>images/pic/ZombleFire.gif</file>
+        <file>images/pic/ZombleWind.gif</file>
+        <file>images/ice.png</file>
+        <file>images/fx/boom.gif</file>
+        <file>images/fx/BOOM_small.gif</file>
+        <file>images/waterBall.png</file>
+        <file>images/waterBallSmall.png</file>
+        <file>images/ts1at-oznr4.png</file>
+        <file>styleEdit.qss</file>
+        <file>images/magic/magicFirePic.png</file>
+        <file>images/magic/magicIcePic.png</file>
+        <file>images/magic/magicWaterPic.png</file>
+        <file>images/crosshair.png</file>
+    </qresource>
+</RCC>

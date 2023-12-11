@@ -1,0 +1,12 @@
+QLineEdit {
+    border: 5px solid black;
+    border-radius: 5px;
+    background-color: rgba(255, 192, 203, 0.5);
+    font-size: 20px;
+    padding: 5px;
+    font-family: fusion pixel proportional;
+}
+
+QLineEdit:focus {
+    border: 5px solid #4da6ff;
+}
